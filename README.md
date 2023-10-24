@@ -1,6 +1,7 @@
 # Madlibs Generator 📖✨
 
-Welcome to the Madlibs Generator!
+![Jim the horse](jim.png)
+<h6>Illustration of a curious horse named Jim exploring a lavish house. He stops in his tracks as a majestic unicorn, guarding a huge gem, confronts him with a riddle.</h6>
 
 ## How It Works 🛠️
 
